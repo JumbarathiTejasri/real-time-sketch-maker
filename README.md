@@ -24,13 +24,10 @@ A Python application that captures live video from your webcam and converts each
 real-time-sketch-maker/
 ├── main.py
 ├── requirements.txt
-├── output/ ← Saved sketch images go here
-│ └── pencil.png ← Example sketch image
+├── output/  ← Saved sketch images go here
+│ └── pencil.png  ← Example sketch image
 ├── README.md
 
-bash
-Copy
-Edit
 
 > 📝 Note: NOTE:create output folder after cloning of repo
 
